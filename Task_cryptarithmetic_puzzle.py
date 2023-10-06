@@ -52,7 +52,6 @@
 # Uitleg van de code heb ik in de comments erbij gezet
 
 # %%
-pip install simpleai
 
 import streamlit as st
 from simpleai.search import CspProblem, backtrack
